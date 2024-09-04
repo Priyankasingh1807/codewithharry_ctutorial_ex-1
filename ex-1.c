@@ -7,6 +7,7 @@ int main()
     scanf("%d", &a);
 
     printf("Table of %d:\n",a);
+    
     printf("%d x 1= %d\n",a, a*1);
      printf("%d x 2= %d\n",a, a*2);
       printf("%d x 3= %d\n", a, a*3);
